@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m PMC Chair of [Apache APISIX](https://github.com/apache/apisix), committer of Apache SkyWalking, PMC of Apache Incubator
+- 🔭 I’m member of ASF, PMC Chair of [Apache APISIX](https://github.com/apache/apisix), committer of Apache SkyWalking, PMC of Apache Incubator
 - 🌱 Mentor of Apache Doris(incubating) and Apache heron(incubating), Mentor of OpenAtom Foundation
 - Founder & CEO of [api7.ai](apiseven.com)
 - [Columnist](https://time.geekbang.org/column/intro/186)
